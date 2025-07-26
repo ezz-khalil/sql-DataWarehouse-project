@@ -109,8 +109,6 @@ All issues are addressed in the **Silver ETL layer**.
 
 With a strong foundation in AI, machine learning, and data analysis—gained through hands-on internships and academic projects—I bring an analytical mindset and problem-solving approach to everything I do. I'm particularly interested in building the infrastructure that powers data-driven products and supports advanced analytics.
 
-I'm looking for internship or entry-level opportunities where I can contribute, learn from experienced teams, and grow into a well-rounded Data Engineer.  
-
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ezz-khalil-b18668217/)
 
 ---
