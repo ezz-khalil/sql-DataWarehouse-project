@@ -1,0 +1,18 @@
+1- cust_info:
+	- duplicates and nulls in primary key
+	- Unwanted spaces (firstname & lastname)
+	- gender date (F&M)=> (Female& Male)
+	- marital status (S & M) ==> (single & married)
+	- handling null values
+2- prd_info:
+	- split prd_key as it contains the category id for 			the category column
+	-  enhancing the cat_id format to match id at 				erp_cat table
+	- cost column has null
+	- prd_line contains appreviations
+	- Invalid order dates --> end_data > start_date
+3-sales_details:
+	- the date columns are integer 
+	- sls_ord_dt contain zeros and  some records 		invalid dates number
+	- sls_sales, sls_price have nulls,
+		negatives and there are bad calc. for the 	
+		price column.
