@@ -1,0 +1,9 @@
+1-cust_az12:
+	- cid column that we use to join the table with 		crm_cust info include 'NAS' string before 		cst_id
+	- bdate column contains cutomer older than 100 		years and also bithdate in the future.
+	- gen column has many distinct values null, empty 		string,M,F, Male and Female
+
+2-loc_a101:
+	- cid column used in joining with crm_cust_info has 		different format it uses '-' after first 2 		char.
+	- cntry column has mixed values for the countries 		like full country name and appreviations 		and nulls.
+	
